@@ -1,6 +1,3 @@
-import time
-import sys
-import random
 Player_1=1500
 Player_2=1500
 Player_3=1500
@@ -106,7 +103,7 @@ while True:
         print("/bankcrupt - Bankcrupt a player")
         print("/help - Show this help message")
         print("/end - End the game and total everybodies score")
-    if command!="/charge" and command!="/give" and command!="/transfer" and command!="/bankcrupt" and command!="/help" and command!="/end" and command!="/roll":
+    if command!="/charge" and command!="/give" and command!="/transfer" and command!="/help" and command!="/end" and command!="/roll":
         print(" Try one of the following:")
         print("/roll - Roll a dice")
         print("/charge - Charge a player money")
