@@ -36,3 +36,4 @@ End the game
 -V1 Includes Basic take and give commands in the console.                                                                                                              
 -V2 Includes more game commands including /roll, /transfer, and a command help menu.                                                                                                                                   
 -V3 Includes an intruduction when code starts, along with a customizable player count.
+-V4 Adds custom player names and an auto bancruptcy.
